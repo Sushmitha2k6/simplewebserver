@@ -82,5 +82,9 @@ httpd.serve_forever()
 
 
 
+![Screenshot 2025-03-29 104258](https://github.com/user-attachments/assets/9390a4ea-e388-401d-b7d7-490b30eb1709)
+
+
+
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
